@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "Rx57FgTs",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Kplh4FTk",
+  "value": "typography",
+  "values": {
+    "tag": "subtitle2"
+  }
+}

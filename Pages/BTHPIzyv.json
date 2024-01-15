@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "Container",
+  "parent": "sweffuL5",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "BTHPIzyv",
+  "value": "Container",
+  "values": {}
+}

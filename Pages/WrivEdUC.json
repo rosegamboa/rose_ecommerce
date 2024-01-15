@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "Page Header",
+  "parent": "wcLquEJl",
+  "path": "ph.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "WrivEdUC",
+  "value": "ph"
+}

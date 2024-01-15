@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "cake",
+  "parent": "TBJiqfoE",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "TxZwR6qd",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.cake"
+  }
+}

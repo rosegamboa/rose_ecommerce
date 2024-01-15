@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Container",
+  "parent": "HDJ01pdc",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "QuTamJcD",
+  "value": "Container",
+  "values": {
+    "maxWidth": "false"
+  }
+}

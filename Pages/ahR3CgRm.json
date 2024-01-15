@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "field",
+  "parent": "BTHPIzyv",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "renderTag": "td",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "ahR3CgRm",
+  "value": "field",
+  "values": {
+    "Field": "qNVWQqgg",
+    "Type": "edit"
+  }
+}

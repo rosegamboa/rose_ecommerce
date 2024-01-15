@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "button",
+  "parent": "bIeOnguM",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.ButtonText }",
+  "renderTag": "button",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "JBcu11iU",
+  "value": "button",
+  "values": {
+    "ButtonText": "Suscribete!",
+    "Color": "primary"
+  }
+}

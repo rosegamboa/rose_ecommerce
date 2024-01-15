@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "VempNSWr",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "f6ibP0NN",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.vainilla"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "suscribete",
+  "parent": "Jb4DWzCO",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "VempNSWr",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.suscriptores"
+  }
+}

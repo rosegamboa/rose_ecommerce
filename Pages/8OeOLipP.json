@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "PMadt71u",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "8OeOLipP",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "NavLink",
+    "target": "_blank"
+  }
+}

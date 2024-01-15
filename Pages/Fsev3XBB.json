@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "After Page Render",
+  "parent": "aM6Q2hFr",
+  "path": "apr.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "Fsev3XBB",
+  "value": "apr"
+}

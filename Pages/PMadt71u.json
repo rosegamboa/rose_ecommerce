@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "home",
+  "parent": "TxZwR6qd",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.ButtonText }",
+  "renderTag": "button",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "PMadt71u",
+  "value": "button",
+  "values": {
+    "ButtonText": "Home",
+    "Color": "primary"
+  }
+}

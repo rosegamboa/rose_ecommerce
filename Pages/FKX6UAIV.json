@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "deco",
+  "parent": "TBJiqfoE",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "FKX6UAIV",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.deco"
+  }
+}

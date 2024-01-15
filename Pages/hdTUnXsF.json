@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "3ue5WV4u",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "hdTUnXsF",
+  "value": "text",
+  "values": {}
+}

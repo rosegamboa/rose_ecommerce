@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "About me",
+  "parent": "3ZxZUvSB",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sFW2u4yf",
+  "value": "button",
+  "values": {
+    "ButtonText": "About me",
+    "Color": "primary"
+  }
+}

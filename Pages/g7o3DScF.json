@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "JBcu11iU",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "g7o3DScF",
+  "value": "simpleLink",
+  "values": {}
+}

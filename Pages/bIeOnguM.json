@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "VempNSWr",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "bIeOnguM",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

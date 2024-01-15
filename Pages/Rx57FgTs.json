@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "naranja",
+  "parent": "txEx3kKl",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Rx57FgTs",
+  "value": "div",
+  "values": {
+    "class": "theme.naranja"
+  }
+}

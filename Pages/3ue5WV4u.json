@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "texto",
+  "parent": "Jb4DWzCO",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "3ue5WV4u",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.texto"
+  }
+}

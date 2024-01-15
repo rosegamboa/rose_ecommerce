@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "navbar",
+  "parent": "txEx3kKl",
+  "path": "navbar.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "TBJiqfoE",
+  "value": "navbar",
+  "values": {
+    "Color": "primary",
+    "Title": ""
+  }
+}

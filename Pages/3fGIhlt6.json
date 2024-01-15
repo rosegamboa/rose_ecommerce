@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "Kplh4FTk",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3fGIhlt6",
+  "value": "text",
+  "values": {
+    "Content": "blog literario"
+  }
+}

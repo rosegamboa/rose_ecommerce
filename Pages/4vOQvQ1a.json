@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "DqMah2VK",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "4vOQvQ1a",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "NavLink",
+    "target": "_blank"
+  }
+}

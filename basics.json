@@ -1,0 +1,35 @@
+{
+  "_id": "OmdiGgiDRTtddsUx",
+  "createdAt": 1705177726201,
+  "modifiedAt": 1705358104688,
+  "lastBuild": 1703047313672,
+  "settings": {
+    "name": "vlog",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "vlog",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://vloglite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/vlog"
+    },
+    "stagging": {
+      "apiURL": "https://vloglite.aptugo.app",
+      "type": "Local",
+      "folder": "vlog_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://vloglite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/vlog"
+    },
+    "production": {
+      "apiURL": "https://vloglite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "vlog",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://vloglite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/vlog"
+    }
+  }
+}

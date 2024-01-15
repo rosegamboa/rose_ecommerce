@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Head",
+  "parent": "HDJ01pdc",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "AMpMTQOR",
+  "value": "div",
+  "values": {
+    "class": "theme.tableHeading"
+  }
+}
